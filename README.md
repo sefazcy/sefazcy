@@ -18,8 +18,6 @@
 
 ## 🚀 About Me
 
-I'm a Computer Education and Instructional Technologies student at Hacettepe University.
-
 I build practical web applications with a focus on backend systems, admin panels, and small-business software.  
 Currently, I'm working on **BusinessKit**, a modular software system for businesses such as cafés, barbers, clinics, and local service providers.
 
